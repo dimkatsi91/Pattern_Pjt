@@ -8,7 +8,7 @@ URL: https://dimkatsi91.github.io/Pattern_Pjt/
 
 --------------------------------------------------------------------
 
-Here you can find vectors for 5 persons, 10 vectors or each person.
+Here you can find vectors for 5 persons, 10 vectors for each person.
 5 dimensional space.
 
 Present the populations in 2 dimensions with the best seperability.
