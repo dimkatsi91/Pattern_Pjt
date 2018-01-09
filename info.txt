@@ -1,0 +1,11 @@
+# Information
+
+Here you can find vectors for 5 persons, 10 vectors or each person.
+5 dimensional space.
+
+Present the populations in 2 dimensions with the best seperability.
+
+In the project report explain analytically everything you have done
+(theory application and code).
+
+That's it!    :)
