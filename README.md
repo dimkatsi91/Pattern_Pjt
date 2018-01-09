@@ -1,6 +1,6 @@
 # Pattern_Pjt
 
-Title: Fisher Linear Discriminant Analysis (FLD) Application
+Title: Fisher Linear Discriminant Analysis (FLD)
 
 Course: Pattern  Recognition & Intelligent Analysis
 
