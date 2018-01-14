@@ -1,8 +1,8 @@
-# Pattern_Pjt
+# Pattern Recognition Small Project
 
 * Title: Fisher Linear Discriminant Analysis (FLD)
 
-* Course: Pattern  Recognition & Intelligent Analysis
+* Course: Pattern Recognition & Intelligent Data Analysis
 
 * [GitHub site](https://dimkatsi91.github.io/Pattern_Pjt/)
 
