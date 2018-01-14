@@ -1,10 +1,10 @@
 # Pattern_Pjt
 
-Title: Fisher Linear Discriminant Analysis (FLD)
+* Title: Fisher Linear Discriminant Analysis (FLD)
 
-Course: Pattern  Recognition & Intelligent Analysis
+* Course: Pattern  Recognition & Intelligent Analysis
 
-URL: https://dimkatsi91.github.io/Pattern_Pjt/
+* [GitHub site](https://dimkatsi91.github.io/Pattern_Pjt/)
 
 --------------------------------------------------------------------
 
